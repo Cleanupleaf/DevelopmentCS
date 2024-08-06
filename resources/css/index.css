@@ -1,0 +1,669 @@
+/* Titles */
+.main{
+    color:saddlebrown;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-align: center;
+}
+.sub{
+    color:sienna;
+    font-style: italic;
+    font-weight: 200;
+    text-align: center;
+}
+.tabletitle{
+    color:blueviolet;
+    font-weight: bold;
+    text-align: center;
+}
+.tabletitles {
+    color:blueviolet;
+    font-weight: bold;
+    text-align:left;
+    position: relative;
+    left: 150px;
+}
+html{
+    background-color: tan;
+    
+}
+/* Buttons */
+
+.optionbuttons{
+    text-align: center;
+    display: block;
+}
+button{
+    background: linear-gradient(to bottom,#cc6600 0%, #ccccff 100%);
+    height: 200px;
+    width: 200px;
+    font-size: large;
+    color:rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* Table Styling */
+table{
+    text-align:center;
+    width:75%;
+    position: relative;
+    left:150px;
+}
+.tags{
+    background-color: blanchedalmond;
+}
+thead{
+    background-color: plum;
+}
+
+table, th, td {
+    border: 1px solid blueviolet;
+  }
+
+
+  /* Colors */
+.blue01{
+    background-color: blue;
+    color:white;
+}
+.blue02{
+    background-color: blueviolet;
+    color:white;
+}
+.blue03{
+    background-color: cornflowerblue;
+}
+.blue04{
+    background-color: darkblue;
+    color:white;
+}
+.blue05{
+    background-color: deepskyblue;
+}
+.blue06{
+    background-color: dodgerblue;
+}
+.blue07{
+    background-color: lightblue;
+}
+.blue08{
+    background-color: lightskyblue;
+}
+.blue09{
+    background-color: lightsteelblue;
+}
+.blue10{
+    background-color: mediumblue;
+    color:white;
+}
+.blue11{
+    background-color: midnightblue;
+    color:white;
+}
+.blue12{
+    background-color: navy;
+    color:white;
+}
+.blue13{
+    background-color: powderblue
+}
+.blue14{
+    background-color: royalblue;
+    color:white;
+}
+.blue15{
+    background-color: skyblue;
+}
+.blue16{
+    background-color: steelblue;
+    color:white;
+}
+.cyan01{
+    background-color: cadetblue;
+}
+.cyan02{
+    background-color: cyan;
+}
+.cyan03{
+    background-color: Darkcyan;
+    color:white;
+}
+.cyan04{
+    background-color: lightcyan;
+}
+.cyan05{
+    background-color: teal;
+    color:white;
+}
+.aqua01{
+    background-color: aqua;
+}
+.aqua02{
+    background-color: aquamarine;
+}
+.aqua03{
+    background-color: darkturquoise;
+}
+.aqua04{
+    background-color: lightseagreen;
+}
+.aqua05{
+    background-color: mediumaquamarine;
+}
+.aqua06{
+    background-color: mediumturquoise;
+    color:white;
+}
+.aqua07{
+    background-color: paleturquoise;
+}
+.aqua08{
+    background-color: turquoise;
+}
+.brown01{
+    background-color: bisque;
+}
+.brown02{
+    background-color: blanchedalmond;
+}
+.brown03{
+    background-color: brown;
+    color:white;
+}
+.brown04{
+    background-color: burlywood;
+}
+.brown05{
+    background-color: chocolate;
+}
+.brown06{
+    background-color: cornsilk;
+}
+.brown07{
+    background-color: darkgoldenrod;
+}
+.brown08{
+    background-color: goldenrod;
+}
+.brown09{
+    background-color: maroon;
+    color:white;
+}
+.brown10{
+    background-color: peru;
+    color:white;
+}
+.brown11{
+    background-color: rosybrown;
+    color:white;
+}
+.brown12{
+    background-color: saddlebrown;
+    color:white;
+    
+}
+.brown13{
+    background-color: sandybrown;
+}
+.brown14{
+    background-color: sienna;
+    color:white;
+}
+.brown15{
+    background-color: tan;
+}
+.brown16{
+    background-color: wheat;
+}
+.gray01{
+    background-color: aliceblue;
+}
+.gray02{
+    background-color:antiquewhite;
+}
+.gray03{
+    background-color: azure;
+}
+.gray04{
+    background-color: beige;
+}
+.gray05{
+    background-color: black;
+    color:white;
+}
+.gray06{
+    background-color: darkgray;
+}
+.gray07{
+    background-color: darkslategray;
+    color:white;
+}
+.gray08{
+    background-color: dimgray;
+    color:white;
+}
+.gray09{
+    background-color: floralwhite;
+}
+.gray10{
+    background-color: gainsboro;
+}
+.gray11{
+    background-color: ghostwhite;
+}
+.gray12{
+    background-color: gray;
+    
+}
+.gray13{
+    background-color: honeydew;
+}
+.gray14{
+    background-color: ivory;
+}
+.gray15{
+    background-color: lavenderblush;
+}
+.gray16{
+    background-color: lightgray;
+}
+.gray17{
+    background-color: lightslategray;
+}
+.gray18{
+    background-color: linen;
+}
+.gray19{
+    background-color: mintcream;
+}
+.gray20{
+    background-color: mistyrose;
+}
+.gray21{
+    background-color: navajowhite
+}
+.gray22{
+    background-color: oldlace;
+}
+.gray23{
+    background-color: seashell;
+}
+.gray24{
+    background-color: silver;
+}
+.gray25{
+    background-color: slategray;
+    color:white;
+}
+.gray26{
+    background-color: snow;
+}
+.gray27{
+    background-color: white;
+}
+.gray28{
+    background-color: whitesmoke;
+}
+.green01{
+    background-color: chartreuse;
+}
+.green02{
+    background-color:darkgreen ;
+    color:white;
+}
+.green03{
+    background-color: darkolivegreen;
+    color:white;
+}
+.green04{
+    background-color: darkseagreen;
+}
+.green05{
+    background-color: forestgreen;
+}
+.green06{
+    background-color: green;
+    color:white;
+}
+.green07{
+    background-color: greenyellow;
+}
+.green08{
+    background-color: lawngreen;
+}
+.green09{
+    background-color: lightgreen;
+}
+.green10{
+    background-color: lime;
+}
+.green11{
+    background-color: limegreen;
+    color:white;
+}
+.green12{
+    background-color: mediumseagreen;
+    color:white;
+}
+.green13{
+    background-color: mediumspringgreen;
+}
+.green14{
+    background-color: olive;
+    color:white;
+}
+.green15{
+    background-color: olivedrab;
+    color:white;
+}
+.green16{
+    background-color: palegreen;
+}
+.green17{
+    background-color: seagreen;
+    color:white;
+}
+.green18{
+    background-color: springgreen;
+}
+.green19{
+    background-color: yellowgreen;
+}
+.orange01{
+    background-color: coral;
+}
+.orange02{
+    background-color: darkorange;
+}
+.orange03{
+    background-color: gold;
+}
+.orange04{
+    background-color: orange;
+}
+.orange05{
+    background-color: orangered;
+    color:white;
+}
+.orange06{
+    background-color: tomato;
+    color:white;
+}
+.pink01{
+    background-color: deeppink;
+}
+.pink02{
+    background-color: hotpink;
+}
+.pink03{
+    background-color: lightpink;
+}
+.pink04{
+    background-color: mediumvioletred;
+    color:white;
+}
+.pink05{
+    background-color: palevioletred;
+    color:white;
+}
+.pink06{
+    background-color: pink;
+}
+.red01{
+    background-color: crimson ;
+    color:white;
+}
+.red02{
+    background-color: darkred;
+    color:white;
+}
+.red03{
+    background-color: darksalmon;
+}
+.red04{
+    background-color: firebrick;
+    color:white;
+}
+.red05{
+    background-color: indianred;
+}
+.red06{
+    background-color: lightcoral;
+}
+.red07{
+    background-color: lightsalmon;
+}
+.red08{
+    background-color: Red;
+    color:white;
+}
+.red09{
+    background-color: salmon;
+}
+.purple01{
+    background-color: darkmagenta;
+    color:white;
+}
+.purple02{
+    background-color: darkorchid;
+    color:white;
+}
+.purple03{
+    background-color: darkslateblue;
+    color:white;
+}
+.purple04{
+    background-color: darkviolet;
+    color:white;
+}
+.purple05{
+    background-color: fuchsia;
+}
+.purple06{
+    background-color: indigo;
+    color:white;
+}
+.purple07{
+    background-color: lavender;
+}
+.purple08{
+    background-color: magenta;
+}
+.purple09{
+    background-color: mediumorchid;
+    color:white;
+}
+.purple10{
+    background-color: mediumpurple;
+    color:white;
+}
+.purple11{
+    background-color: mediumslateblue;
+    color:white;
+}
+.purple12{
+    background-color: orchid;
+    color:white;
+}
+.purple13{
+    background-color: plum;
+}
+.purple14{
+    background-color: purple;
+    color:white;
+}
+.purple15{
+    background-color: rebeccapurple;
+    color:white;
+}
+.purple16{
+    background-color: slateblue;
+    color:white;
+}
+.purple17{
+    background-color: thistle;
+}
+.purple18{
+    background-color: violet;
+    color:white;
+}
+.yellow01{
+    background-color: darkkhaki;
+}
+.yellow02{
+    background-color: khaki;
+}
+.yellow03{
+    background-color: lemonchiffon;
+}
+.yellow04{
+    background-color: lightgoldenrodyellow;
+}
+.yellow05{
+    background-color: lightyellow ;
+}
+.yellow06{
+    background-color: moccasin;
+}
+.yellow07{
+    background-color: palegoldenrod;
+}
+.yellow08{
+    background-color:papayawhip;
+}
+.yellow09{
+    background-color: peachpuff;
+}
+.yellow10{
+    background-color: yellow;
+}
+
+/* Fonts */
+.font01{
+    font-family: serif;
+}
+.font02{
+    font-family: sans-serif;
+}
+.font03{
+    font-family: monospace;
+}
+.font04{
+    font-family: cursive;
+}
+.font05{
+    font-family: fantasy;
+}
+.font06{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.font07{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.font08{
+    font-family: 'Times New Roman', Times, serif;
+}
+.font09{
+    font-family: serif;
+    font-style: normal;
+}
+.font10{
+    font-family: sans-serif;
+    font-style: normal;
+}
+.font11{
+    font-family: serif;
+    font-style: italic;
+}
+.font12{
+    font-family: sans-serif;
+    font-style: italic;
+}
+.font13{
+    font-family: serif;
+    font-style: oblique;
+}
+.font14{
+    font-family: sans-serif;
+    font-style: oblique;
+}
+.font15{
+    font-family: serif;
+    font-variant: small-caps;
+}
+.font16{
+    font-family: sans-serif;
+    font-variant: small-caps;
+}
+.font17{
+    font-family: serif;
+    font-weight: 100;
+}
+.font18{
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.font19{
+    font-family: serif;
+    font-weight: 200;
+}
+.font20{
+    font-family: sans-serif;
+    font-weight: 200;
+}
+.font21{
+    font-family: serif;
+    font-weight: 300;
+}
+.font22{
+    font-family: sans-serif;
+    font-weight: 300;
+}
+.font23{
+    font-family: serif;
+    font-weight: normal;
+}
+.font24{
+    font-family: sans-serif;
+    font-weight: normal;
+}
+.font25{
+    font-family: serif;
+    font-weight: 500;
+}
+.font26{
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.font27{
+    font-family: serif;
+    font-weight: 600;
+}
+.font28{
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.font29{
+    font-family: serif;
+    font-weight: bold;
+}
+.font30{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.font31{
+    font-family: serif;
+    font-weight: 800;
+}
+.font32{
+    font-family: sans-serif;
+    font-weight: 800;
+}
+.font33{
+    font-family: serif;
+    font-weight: 900;
+}
+.font34{
+    font-family: sans-serif;
+    font-weight: 900;
+}
+
