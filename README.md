@@ -1,1 +1,1 @@
-This is a web development 'cheet sheet' I have been making during my learning process. I will add more aspects to it as I continue to learn.
+This is a web development 'cheet sheet' to have easy access to styling options. I will add more aspects to it in the future.
